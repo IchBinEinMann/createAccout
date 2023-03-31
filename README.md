@@ -76,11 +76,17 @@ The user can also set the length of the password they want to generate.
 
 ## Used Libraries
 
-1. stdlib.h
-2. iomanip
+#include <iostream>
+#include <cstdlib>
+#include <stdlib.h>
+#include <ctime>
+#include <string>
+#include <locale.h>
 
 ## Screenshots
 
+  
+  
 ## Creator
 
 **Mariusz Mann 2AP**
