@@ -76,12 +76,12 @@ The user can also set the length of the password they want to generate.
 
 ## Used Libraries
 
-1. #include <iostream>
-2. #include <cstdlib>
-3. #include <stdlib.h>
-4. #include <ctime>
-5. #include <string>
-6. #include <locale.h>
+1. iostream
+2. cstdlib
+3. stdlib.h
+4. ctime
+5. string
+6. locale.h
 
 ## Screenshots
 
